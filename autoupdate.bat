@@ -27,7 +27,7 @@ REM { Special thak to binarymaster, saurav-biswas and all other contributors }
 REM -----------------------------------------
 REM Location of new/updated rdpwrap.ini files
 REM -----------------------------------------
-set rdpwrap_ini_update_github_1="https://raw.githubusercontent.com/SobieskiCodes/RDPWrap/master/rdpwrap.ini"
+set rdpwrap_ini_update_github_1="https://raw.githubusercontent.com/MaityChen/RDPWrap/master/rdpwrap.ini"
 REM set rdpwrap_ini_update_github_3="https://raw.githubusercontent.com/....Extra.3...."
 REM set rdpwrap_ini_update_github_4="https://raw.githubusercontent.com/....Extra.4...."
 
